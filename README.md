@@ -31,7 +31,7 @@ The final model is trained using a full pipeline that includes preprocessing and
 ## 📝 Results
 - Final F1-score: ~0.70 (weighted)
 - Cross-validation F1-score: ~0.71
-- test set F1-score: 0.68
+- test set F1-score:  ~0.68 
 
 ## 🚀 Future Improvements
 - Try deep learning approaches (BERT or transformers)
